@@ -1,7 +1,6 @@
 # Assignment 14: Use a CSS and JavaScript Framework to Add Interactivity to a Website
 
 ## Emily's Portfolio Website
-### Introduction
 This portfolio site showcases professional and personal highlights using Bootstrap 5 for a responsive and interactive experience.
 
 ## Bootstrap Features
